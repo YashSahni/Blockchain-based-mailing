@@ -79,7 +79,7 @@ export default function Header() {
                     </Popover.Group>
                     <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
                         <a
-                            href="https://github.com/Sarthak061/Blockmail"
+                            href="https://github.com/YashSahni/Blockchain-based-mailing/"
                             className="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800"
                             aria-label="Sign up" target="_blank"
 
@@ -139,7 +139,7 @@ export default function Header() {
                     
                             <div>
                                 <a
-                                    href="https://github.com/Sarthak061/Blockmail"
+                                    href="https://github.com/YashSahni/Blockchain-based-mailing/"
                                     className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700" target="_blank"
                                 >
                                     Github
